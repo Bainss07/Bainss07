@@ -1,0 +1,20 @@
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.csproj.AssemblyReference.cache
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.Properties.Resources.resources
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.csproj.GenerateResource.cache
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.csproj.CoreCompileInputs.cache
+C:\Users\saman\source\repos\GraphApplication\bin\Debug\GraphApplication.exe.config
+C:\Users\saman\source\repos\GraphApplication\bin\Debug\GraphApplication.exe
+C:\Users\saman\source\repos\GraphApplication\bin\Debug\GraphApplication.pdb
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.exe
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.pdb
+C:\Users\saman\source\repos\GraphApplication\obj\Debug\GraphApplication.Form1.resources
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.exe
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.pdb
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\bin\Debug\GraphApplication.exe.config
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\bin\Debug\GraphApplication.exe
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\bin\Debug\GraphApplication.pdb
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.csproj.AssemblyReference.cache
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.Form1.resources
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.Properties.Resources.resources
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.csproj.GenerateResource.cache
+C:\Users\TEGVIR BAINS\Desktop\GraphApplication\GraphApplication\obj\Debug\GraphApplication.csproj.CoreCompileInputs.cache
